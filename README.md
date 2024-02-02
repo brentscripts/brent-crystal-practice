@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Git, Docker, Azure, Functional Programming, Blazor and ASP.NET Core Apps.
 - 💞️ I’m open to feedback and discussions on my practice projects as I explore and grow in the world of software development. 
 - 📫 How to reach me: Feel free to connect on LinkedIn.
-- ⚡ Fun fact:  I have a knack for diving into coding and exploring new technologies. Coffee is my coding companion during prolonged coding adventures! ☕💻
+- ⚡ **Fun Fact:** When I'm not coding, I spend a lot of time building pallet wood habitats 🏡 for my children's pet ducks 🦆 and chickens 🐓! 
 
 <!---
 brentscripts/brentscripts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
