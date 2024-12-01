@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Brent @brentscripts
-- 👀 I’m a junior C# programmer and software developer.
-- 🌱 I’m currently learning Git, Docker, Azure, Functional Programming, Blazor and ASP.NET Core Apps.
-- 💞️ I’m open to feedback and discussions on my practice projects as I explore and grow in the world of software development. 
-- 📫 How to reach me: Feel free to connect on LinkedIn.
-- ⚡ **Fun Fact:** When I'm not coding, I spend a lot of time building pallet wood habitats 🏡 for my children's pet ducks 🦆 and chickens 🐓! 
+👋 Hi, I’m Brent, also known as @brentscripts!
+- 👀 I’m a junior software developer passionate about using C# and .NET to solve problems and build impactful software.
+- 🌱 Currently exploring Git, Docker, Azure, Blazor, and ASP.NET Core Apps to expand my skill set.
+- 💞️ I’m open to feedback and discussions on my practice projects as I learn and grow in the software development journey.
+- 📫 How to reach me: Connect with me on LinkedIn — I'd love to network!
+- ⚡ Fun Fact: When I’m not coding, you’ll find me crafting pallet wood habitats 🏡 for my kids’ pet ducks 🦆 and chickens 🐓!
 
 <!---
 brentscripts/brentscripts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
